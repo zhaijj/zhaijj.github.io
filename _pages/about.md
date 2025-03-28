@@ -1,10 +1,19 @@
 ---
 permalink: /
-title: "Highlighting Projects"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a postdoctoral researcher at Cornell University at [Buckler Lab](https://maizegenetics.net/). My research focuses on applying machine learning and deep learning to bioinformatics, particularly in sequence-to-function modeling, functional annotation of genetic variants, and integrated analysis of genomic, transcriptomic, and epigenomic data. 
+
+
+## Education
+- PhD in Bioinformatics, Northwest A&F University, 2017-2022
+- BS in Bioengineering, Northwest A&F University, 2013-2017
+
+## Experience
+- Postdoctoral Researcher, Cornell University, 2022-Present
+- Research Intern, University of Ottawa, 2016
