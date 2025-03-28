@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Bzo0u60AAAAJ&hl=en).
 
 ## Pre-prints
 
@@ -24,7 +25,7 @@ author_profile: true
 
 * Chen S, Ren C, **Zhai J**, Yu J, Zhao X, Li Z, Zhang T, Ma W, Han Z, Ma C. [CAFU: a galaxy framework for exploring unmapped RNA-Seq data](https://academic.oup.com/bib/article/21/2/676/5349178). Briefings in Bioinformatics, 2020, 21(2): 676-686 (Co-first author).
 
-* **Zhai J**, Tang Y, Yuan H, Wang L, Shang H, Ma C. [A meta-analysis based method for prioritizing candidate genes involved in a pre-specific function](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01914/full). Frontiers in Plant Science, 2016, 7:1914 (共同第一作者/Co-first author).
+* **Zhai J**, Tang Y, Yuan H, Wang L, Shang H, Ma C. [A meta-analysis based method for prioritizing candidate genes involved in a pre-specific function](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01914/full). Frontiers in Plant Science, 2016, 7:1914 (Co-first author).
 
 * Zhang T, **Zhai J**, Zhang X, Ling L, Li M, Xie S, Song M, Ma C. Interactive web-based annotation of plant microRNAs with iwa-miRNA. Genomics, Proteomics & Bioinformatics, 2021, doi: 10.1016/j.gpb.2021.02.010.
 
