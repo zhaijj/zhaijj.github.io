@@ -22,12 +22,7 @@ I developed deepTFBS, a method for transcription factor binding site prediction 
 
 ## Epitranscriptome Analysis Platforms
 
-I created a series of platforms for plant epitranscriptome analysis, including deepEA, PEA, and PEA-m5C, which allow for interactive analysis of epitranscriptome sequencing data.
+I developed a series of platforms for plant epitranscriptome analysis, including [deepEA](https://academic.oup.com/plphys/article/185/1/29/5988724), [PEA](https://academic.oup.com/bioinformatics/article/34/21/3747/5021690), and [PEA-m5C](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.00519/full), which allow for interactive analysis of epitranscriptome sequencing data.
 
 ![Epitranscriptome Analysis](/images/deepea.png)
-
-**Publications**:
-- Zhai J, Song J, Zhang T, Xie S, Ma C. deepEA: a containerized web server for interactive analysis of epitranscriptome sequencing data. Plant Physiology, 2021, 185(1):29-33.
-- Zhai J, Song J, Cheng Q, Tang Y, Ma C. PEA: an integrated R toolkit for plant epitranscriptome analysis. Bioinformatics, 2018, 34(21):3747-3749.
-- Song J, Zhai J, Bian E, Song Y, Yu J, Ma C. Transcriptome-wide annotation of m5C RNA modifications using machine learning. Frontiers in Plant Science, 2018, 9:519.
 
