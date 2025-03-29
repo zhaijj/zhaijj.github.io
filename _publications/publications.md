@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * **Zhai J**, Zhang Y, Zhang C, Yi X, Song M, Tang C, Ding P, Li Z, Ma C. [deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning](https://www.biorxiv.org/content/10.1101/2025.03.19.644233v1). bioRxiv. 2025 Mar 19:2025-03
 
-* Schulz AJ, **Zhai J**, AuBuchon-Elder T, El-Walid M, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://www.biorxiv.org/content/10.1101/2023.09.19.558246v1). bioRxiv. 2023 Sep 21:2023-09.
+* Schulz AJ, **Zhai J**, AuBuchon-Elder T, El-Walid M, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Romay M, Seetharam AS, Stitzer M, Wrightsman T, Buckler ES, Monier B, Hsu S. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://www.biorxiv.org/content/10.1101/2023.09.19.558246v1). bioRxiv. 2023 Sep 21:2023-09.
 
 # Selected publications
 
