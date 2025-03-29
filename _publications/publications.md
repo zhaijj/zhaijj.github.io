@@ -27,6 +27,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * **Zhai J**, Tang Y, Yuan H, Wang L, Shang H, Ma C. [A meta-analysis based method for prioritizing candidate genes involved in a pre-specific function](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01914/full). Frontiers in Plant Science, 2016, 7:1914 (Co-first author).
 
-* Zhang T, **Zhai J**, Zhang X, Ling L, Li M, Xie S, Song M, Ma C. Interactive web-based annotation of plant microRNAs with iwa-miRNA. Genomics, Proteomics & Bioinformatics, 2021, doi: 10.1016/j.gpb.2021.02.010.
+* Zhang T, **Zhai J**, Zhang X, Ling L, Li M, Xie S, Song M, Ma C. [Interactive web-based annotation of plant microRNAs with iwa-miRNA](https://academic.oup.com/gpb/article/20/3/557/7198169). Genomics, Proteomics & Bioinformatics, 2021, doi: 10.1016/j.gpb.2021.02.010.
 
-* Cui H, **Zhai J**, Ma C. miRLocator: machine learning-based prediction of mature microRNAs within plant pre-miRNA sequences. PLoS one 10: e0142753.
+* Cui H, **Zhai J**, Ma C. [miRLocator: machine learning-based prediction of mature microRNAs within plant pre-miRNA sequences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142753). PLoS one 10: e0142753.
