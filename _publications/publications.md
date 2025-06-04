@@ -11,11 +11,15 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * **Zhai J**, Gokaslan A, Schiff Y, Berthel A, Liu ZY, Lai WL, Miller ZR, Scheben A, Stitzer MC, Romay MC, Buckler ES, Kuleshov V. [Cross-species modeling of plant genomes at single nucleotide resolution using a pretrained DNA language model](https://www.biorxiv.org/content/10.1101/2024.06.04.596709v3). bioRxiv. 2024 Jun 5:2024-06
 
-* **Zhai J**, Zhang Y, Zhang C, Yi X, Song M, Tang C, Ding P, Li Z, Ma C. [deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning](https://www.biorxiv.org/content/10.1101/2025.03.19.644233v1). bioRxiv. 2025 Mar 19:2025-03
-
 * Schulz AJ, **Zhai J**, AuBuchon-Elder T, El-Walid M, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Romay M, Seetharam AS, Stitzer M, Wrightsman T, Buckler ES, Monier B, Hsu S. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://www.biorxiv.org/content/10.1101/2023.09.19.558246v1). bioRxiv. 2023 Sep 21:2023-09.
 
+* Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
+
+* Hale, CO, Hsu, SK, **Zhai, J**, Schulz, AJ, AuBuchon-Elder, T, Costa-Neto, G, Gelfond, A, El-Walid, M, Hufford, M, Kellogg, EA and La, T, Marand AP, Seetharam AS, Scheben A, Stitzer M, Wrightsman T, Romay MC, Buckler ES. [Extensive modulation of a conserved cis-regulatory code across 589 grass species](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v2) bioRxiv. 2025 Apr 23:2025-04
+
 # Selected publications
+
+* **Zhai J**, Zhang Y, Zhang C, Yi X, Song M, Tang C, Ding P, Li Z, Ma C. [deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202503135). Advanced Science. 2025 Mar 20:e03135.
 
 * **Zhai J**, Song J, Zhang T, Xie S, Ma C. [deepEA: a containerized web server for interactive analysis of epitranscriptome sequencing data](https://academic.oup.com/plphys/article/185/1/29/5988724). Plant Physiology, 2021, 185(1):29-33.
 
