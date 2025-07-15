@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at Cornell University at [Buckler Lab](https://maizegenetics.net/). My research focuses on applying machine learning and deep learning to bioinformatics, particularly in sequence-to-function modeling, functional annotation of genetic variants, and integrated analysis of genomic, transcriptomic, and epigenomic data. 
+I am currently a postdoctoral researcher at Cornell University. My research focuses on applying machine learning and deep learning to bioinformatics, particularly in sequence-to-function modeling, functional annotation of genetic variants, and integrated analysis of genomic, transcriptomic, and epigenomic data. 
 
 
 ## Education
