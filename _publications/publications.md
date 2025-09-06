@@ -9,6 +9,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Pre-prints
 
+* **Zhai J**, Gokaslan A, Hsu S-K, Chen S-P, Liu Z-Y, Marroquin E, Czech E, Cannon B, Berthel A, Romay MC, Pennell M, Kuleshov V, Buckler ES. [PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms](https://www.biorxiv.org/content/10.1101/2025.08.27.672609v1). bioRxiv. 2025 Aug 27:2025-08
+
 * Schulz AJ, **Zhai J**, AuBuchon-Elder T, El-Walid M, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Romay M, Seetharam AS, Stitzer M, Wrightsman T, Buckler ES, Monier B, Hsu S. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://www.biorxiv.org/content/10.1101/2023.09.19.558246v1). bioRxiv. 2023 Sep 21:2023-09.
 
 * Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
