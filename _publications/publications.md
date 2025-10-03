@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * **Zhai J**, Gokaslan A, Hsu S-K, Chen S-P, Liu Z-Y, Marroquin E, Czech E, Cannon B, Berthel A, Romay MC, Pennell M, Kuleshov V, Buckler ES. [PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms](https://www.biorxiv.org/content/10.1101/2025.08.27.672609v1). bioRxiv. 2025 Aug 27:2025-08
 
-* Schulz AJ, **Zhai J**, AuBuchon-Elder T, El-Walid M, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Romay M, Seetharam AS, Stitzer M, Wrightsman T, Buckler ES, Monier B, Hsu S. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://www.biorxiv.org/content/10.1101/2023.09.19.558246v1). bioRxiv. 2023 Sep 21:2023-09.
+
 
 * Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
 
@@ -20,6 +20,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 # Selected publications
 
 * **Zhai, J.**, Gokaslan, A., Schiff, Y., Berthel, A., Liu, Z. Y., Lai, W. L., Miller, Z. R., Scheben, A., Stitzer, M. C., Romay, M. C., Buckler, E. S., & Kuleshov, V. (2025). [Cross-species modeling of plant genomes at single nucleotide resolution using a pretrained DNA language model](https://doi.org/10.1073/pnas.2421738122). Proceedings of the National Academy of Sciences, 122(24), e2421738122.
+
+* Schulz AJ, **Zhai J**, AuBuchon-Elder T, Andorf CM, El-Walid MZ, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Portwood JL II, Romay MC, Seetharam AS, Stitzer MC, Woodhouse MR, Wrightsman T, Buckler ES, Monier B, Hsu SK. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://doi.org/10.1111/tpj.70483). The Plant Journal. 2025 Sep 22.
 
 * **Zhai J**, Zhang Y, Zhang C, Yi X, Song M, Tang C, Ding P, Li Z, Ma C. [deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202503135). Advanced Science. 2025 Mar 20:e03135.
 
