@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
 
-* Hale, CO, Hsu, SK, **Zhai, J**, Schulz, AJ, AuBuchon-Elder, T, Costa-Neto, G, Gelfond, A, El-Walid, M, Hufford, M, Kellogg, EA and La, T, Marand AP, Seetharam AS, Scheben A, Stitzer M, Wrightsman T, Romay MC, Buckler ES. [Extensive modulation of a conserved cis-regulatory code across 589 grass species](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v2) bioRxiv. 2025 Apr 23:2025-04
+* Hale, CO, Hsu, SK, **Zhai, J**, Schulz, AJ, AuBuchon-Elder, T, Costa-Neto, G, Gelfond, A, El-Walid, M, Hufford, M, Kellogg, EA and La, T, Marand AP, Seetharam AS, Scheben A, Stitzer M, Wrightsman T, Romay MC, Buckler ES. [Extensive modulation of a conserved cis-regulatory code across 589 grass species](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v2) bioRxiv. 2025 Apr 23:2025-04. Accepted by Molecular Biology and Evolution.
 
 # Selected publications
 
