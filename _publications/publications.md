@@ -9,6 +9,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Pre-prints
 
+* Liu Z-Y, Berthel A, Czech E, Stitzer M, Hsu S-K, Pennell M, Buckler ES, **Zhai J**. [GeneCAD: Plant Genome Annotation with a DNA Foundation Model](https://doi.org/10.1101/2025.10.31.685877). bioRxiv. 2025 Oct 31:2025-10
+
 * **Zhai J**, Gokaslan A, Hsu S-K, Chen S-P, Liu Z-Y, Marroquin E, Czech E, Cannon B, Berthel A, Romay MC, Pennell M, Kuleshov V, Buckler ES. [PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms](https://www.biorxiv.org/content/10.1101/2025.08.27.672609v1). bioRxiv. 2025 Aug 27:2025-08
 
 
