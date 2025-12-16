@@ -17,11 +17,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
 
-* Hale, CO, Hsu, SK, **Zhai, J**, Schulz, AJ, AuBuchon-Elder, T, Costa-Neto, G, Gelfond, A, El-Walid, M, Hufford, M, Kellogg, EA and La, T, Marand AP, Seetharam AS, Scheben A, Stitzer M, Wrightsman T, Romay MC, Buckler ES. [Extensive modulation of a conserved cis-regulatory code across 589 grass species](https://www.biorxiv.org/content/10.1101/2025.04.23.650228v2) bioRxiv. 2025 Apr 23:2025-04. Accepted by Molecular Biology and Evolution.
+ 
 
 # Selected publications
 
 * **Zhai, J.**, Gokaslan, A., Schiff, Y., Berthel, A., Liu, Z. Y., Lai, W. L., Miller, Z. R., Scheben, A., Stitzer, M. C., Romay, M. C., Buckler, E. S., & Kuleshov, V. (2025). [Cross-species modeling of plant genomes at single nucleotide resolution using a pretrained DNA language model](https://doi.org/10.1073/pnas.2421738122). Proceedings of the National Academy of Sciences, 122(24), e2421738122.
+
+* Hale CO., Hsu SK., **Zhai J.**, Schulz AJ., Aubuchon-Elder T., Costa-Neto G., Gelfond A., El-Walid M., Hufford M., Kellogg EA., La T., Marand AP., Seetharam AS., Scheben A., Stitzer M., Wrightsman T., Romay MC., Buckler ES. (2025). [Widespread turnover of a conserved cis-regulatory code across 589 grass species](https://doi.org/10.1093/molbev/msaf324). Molecular Biology and Evolution.
 
 * Schulz AJ, **Zhai J**, AuBuchon-Elder T, Andorf CM, El-Walid MZ, Ferebee TH, Gilmore EH, Hufford MB, Johnson LC, Kellogg EA, La T, Long E, Miller ZR, Portwood JL II, Romay MC, Seetharam AS, Stitzer MC, Woodhouse MR, Wrightsman T, Buckler ES, Monier B, Hsu SK. [Fishing for a reelGene: evaluating gene models with evolution and machine learning](https://doi.org/10.1111/tpj.70483). The Plant Journal. 2025 Sep 22.
 
