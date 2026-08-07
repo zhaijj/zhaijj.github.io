@@ -11,15 +11,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 * Liu Z-Y, Berthel A, Czech E, Stitzer M, Hsu S-K, Pennell M, Buckler ES, **Zhai J**. [GeneCAD: Plant Genome Annotation with a DNA Foundation Model](https://doi.org/10.1101/2025.10.31.685877). bioRxiv. 2025 Oct 31:2025-10
 
-* **Zhai J**, Gokaslan A, Hsu S-K, Chen S-P, Liu Z-Y, Marroquin E, Czech E, Cannon B, Berthel A, Romay MC, Pennell M, Kuleshov V, Buckler ES. [PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms](https://www.biorxiv.org/content/10.1101/2025.08.27.672609v1). bioRxiv. 2025 Aug 27:2025-08
-
-
-
 * Oren E, **Zhai J**, Rooney TE, Ruthie Angelovici, Hale C, Brindisi L, Hsu SK, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC. [Grass Rhizome Proteomics Reveals Convergent Freezing-Tolerance Strategies](https://www.biorxiv.org/content/10.1101/2025.05.15.654294v1). bioRxiv. 2025 May 15:2025-05
 
  
 
 # Selected publications
+
+* **Zhai J**, Gokaslan A, Hsu S-K, Chen S-P, Liu Z-Y, Marroquin E, Czech E, Cannon B, Berthel A, Romay MC, Pennell M, Kuleshov V, Buckler ES. [PlantCAD2: A DNA foundation model for interpreting genomes across flowering plants](https://www.cell.com/cell-genomics/fulltext/S2666-979X%2826%2900191-6). Cell Genomics. Published online August 7, 2026. Article 101329. doi: 10.1016/j.xgen.2026.101329.
 
 * **Zhai, J.**, Gokaslan, A., Schiff, Y., Berthel, A., Liu, Z. Y., Lai, W. L., Miller, Z. R., Scheben, A., Stitzer, M. C., Romay, M. C., Buckler, E. S., & Kuleshov, V. (2025). [Cross-species modeling of plant genomes at single nucleotide resolution using a pretrained DNA language model](https://doi.org/10.1073/pnas.2421738122). Proceedings of the National Academy of Sciences, 122(24), e2421738122.
 
